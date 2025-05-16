@@ -1,0 +1,4 @@
+build:
+  script:
+      - echo "first job"
+      - echo "second job"
