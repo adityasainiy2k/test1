@@ -1,0 +1,8 @@
+name: vikas
+
+on: push
+
+jobs:
+  vikas:
+    name: vikas code base
+    runs-on: ubuntu-latest
