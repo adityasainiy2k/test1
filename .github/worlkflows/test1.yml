@@ -20,7 +20,7 @@ jobs:
           cache: 'maven'
 
       - name: say hello3
-        run: echo 'say hello3'
+        run: echo 'say hello3' 
         
   build-api:
     needs: builds  
